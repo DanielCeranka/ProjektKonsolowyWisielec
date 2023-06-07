@@ -1,0 +1,8 @@
+Przyk³adowe dane wejœcia:
+wybor graczy : 1
+has³o: haslo
+litera 1: h
+litera 2: a
+litera 3: s
+litera 4: l
+litera 5:o
